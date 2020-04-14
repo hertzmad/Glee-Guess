@@ -2,12 +2,8 @@
 A Glee Guess Who Game!
 
 
-guhauhsoj here, this is a glee game hertzmad and I decided to make by randomizing a selection of 69 glee characters to make 
-24 character guess who like pdf sheets. Besides hertzmad I'd like to thank github user delimitry and their code for a collage maker at 
-
-\hyperlink{github.com/delimitry/collage_maker}
-
-is an essential part of this code, besides that the other python code is mine. 
+guhauhsoj here, this is a glee game [hertzmad](github.com/hertzmad) and I decided to make by randomizing a selection of 69 glee characters to make 
+24 character guess who like pdf sheets. Besides hertzmad I'd like to thank github user [delimitry](github.com/delimitry) and their code for a collage maker at [delimitry's code](github.com/delimitry/collage_maker)is an essential part of this code, besides that the other python code is mine. 
 
 A few basic rules the formatting of what we have right now
 
